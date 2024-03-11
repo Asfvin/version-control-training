@@ -1,2 +1,2 @@
 Sample code
-Test line 2-CHECK1
+Edited the 2nd line

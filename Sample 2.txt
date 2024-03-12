@@ -1,2 +1,2 @@
-Sample code
+Sampling code
 Edited the 2nd line

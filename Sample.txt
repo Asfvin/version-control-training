@@ -1,2 +1,2 @@
 Sample code
-XYZSample code 2
+XYZ$Sample code 2
